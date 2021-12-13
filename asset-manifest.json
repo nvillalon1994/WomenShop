@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/WomanShop/static/css/main.1a2c1f7f.chunk.css",
+    "main.js": "/WomanShop/static/js/main.69aa8861.chunk.js",
+    "main.js.map": "/WomanShop/static/js/main.69aa8861.chunk.js.map",
+    "runtime-main.js": "/WomanShop/static/js/runtime-main.b9e3e5a4.js",
+    "runtime-main.js.map": "/WomanShop/static/js/runtime-main.b9e3e5a4.js.map",
+    "static/js/2.56ae28e6.chunk.js": "/WomanShop/static/js/2.56ae28e6.chunk.js",
+    "static/js/2.56ae28e6.chunk.js.map": "/WomanShop/static/js/2.56ae28e6.chunk.js.map",
+    "static/js/3.17671d44.chunk.js": "/WomanShop/static/js/3.17671d44.chunk.js",
+    "static/js/3.17671d44.chunk.js.map": "/WomanShop/static/js/3.17671d44.chunk.js.map",
+    "index.html": "/WomanShop/index.html",
+    "static/css/main.1a2c1f7f.chunk.css.map": "/WomanShop/static/css/main.1a2c1f7f.chunk.css.map",
+    "static/js/2.56ae28e6.chunk.js.LICENSE.txt": "/WomanShop/static/js/2.56ae28e6.chunk.js.LICENSE.txt",
+    "static/media/a (1).edd7bce2.jfif": "/WomanShop/static/media/a (1).edd7bce2.jfif",
+    "static/media/a (2).65811051.jpg": "/WomanShop/static/media/a (2).65811051.jpg",
+    "static/media/a (3).54473af0.jpg": "/WomanShop/static/media/a (3).54473af0.jpg",
+    "static/media/a (5).f4d58630.jpg": "/WomanShop/static/media/a (5).f4d58630.jpg",
+    "static/media/a1.0b1b840d.jpg": "/WomanShop/static/media/a1.0b1b840d.jpg",
+    "static/media/a2.174efe65.jpg": "/WomanShop/static/media/a2.174efe65.jpg",
+    "static/media/a3.e08c1713.jfif": "/WomanShop/static/media/a3.e08c1713.jfif",
+    "static/media/a4.62a239a0.jfif": "/WomanShop/static/media/a4.62a239a0.jfif",
+    "static/media/a5.d533bcf1.jfif": "/WomanShop/static/media/a5.d533bcf1.jfif",
+    "static/media/a6.118f544b.jpg": "/WomanShop/static/media/a6.118f544b.jpg",
+    "static/media/heroman2.4fc6372b.jpg": "/WomanShop/static/media/heroman2.4fc6372b.jpg",
+    "static/media/logo.39de76f5.png": "/WomanShop/static/media/logo.39de76f5.png",
+    "static/media/remera2.1ede3bd6.jpg": "/WomanShop/static/media/remera2.1ede3bd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9e3e5a4.js",
+    "static/js/2.56ae28e6.chunk.js",
+    "static/css/main.1a2c1f7f.chunk.css",
+    "static/js/main.69aa8861.chunk.js"
+  ]
+}
