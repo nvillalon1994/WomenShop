@@ -17,7 +17,7 @@ export default function Hero() {
                 </div>
                 <div className='contenedor'>
                     <img className="imgHeroman" src={heroman2} alt="" />
-                    <a  href="https://nvillalon1994.github.io/ManShop/#carro"><button  className="boton2">Man Shop</button></a></div>
+                    <a  href="https://nvillalon1994.github.io/ManShop/"><button  className="boton2">Man Shop</button></a></div>
                 </div>
                 
 

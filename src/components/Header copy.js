@@ -56,7 +56,7 @@ export default function Header(props) {
                 
                 <ul className="linksRopa">
                     <li className="linkRopa"><a href="https://nvillalon1994.github.io/WomenShop/">Woman</a></li>
-                    <li className="linkRopa"><a href="https://nvillalon1994.github.io/ManShop/#carro">Man</a></li>
+                    <li className="linkRopa"><a href="https://nvillalon1994.github.io/ManShop/">Man</a></li>
                     
                 </ul>
                 <div className="logo">
