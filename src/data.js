@@ -7,7 +7,7 @@ const dataMan = {
     products :[
 
     {   id:1,
-        nombre: "T-Shirt-Black ",
+        nombre: "T-Shirt ",
         precio:1200,
         img:b1},
     {   id:2,
